@@ -1,0 +1,6 @@
+
+
+there is a viertual environment created at "virtual_env" folder,
+it is needed as we need to seperate this python backend project from the main python that is used
+it is useful for deploying it in heroku/other services
+as pip freeze command will only give dependencies that are required 

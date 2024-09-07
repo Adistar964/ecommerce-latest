@@ -1,0 +1,124 @@
+
+body {
+    margin:0; /* to remove all default margins */
+    font-family: Poppins; 
+    /* overpowered font! */
+}
+
+/* for header */
+header{
+    min-height: 50px;
+    margin-top: 4px;
+}
+.logo-name {
+    font-family: sans-serif;
+    font-weight: 1000;
+    font-size: 1.5em;
+}
+.latest {
+    font-family: monospace;
+    font-size: 0.5em;
+}
+.srchinp {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.btn-srch {
+    /* same as bootstrap-form-control width */
+    height: calc(1.5em + .75rem + 2px);
+    width: 40px;
+}
+.authbtns {
+    width:200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg-theme {
+    background-color: rgb(50, 146, 255);
+}
+.btn-header-outline {
+    color:rgb(50, 146, 255);
+    background-color: white;
+    border: 1px solid rgb(50, 146, 255);
+    transition: all 0.5s;
+}.btn-header-outline:hover{
+    background-color:rgb(50, 146, 255);
+    color: white;
+}
+.EcommerceNav{
+    height: auto;
+    background-color: rgb(50, 146, 255);
+    color: white;
+    margin-top: 0;
+}
+.category_list {
+    display: flex;
+    margin-top: 0;
+    margin-left:5px;
+    height: 100%;
+    align-items: center;
+    cursor: pointer;
+}
+
+.category_list>button {
+    width: 100%;
+    font-size: 1.2em;
+    font-family: arial;
+    padding: 8px;
+    cursor: pointer;
+    background-color: rgb(50, 146, 255);
+    color: white;
+    border:none;
+    border-right: 1px solid white;
+    transition: background-color 0.5s;
+}.category_list>button:hover {
+    color: rgb(50, 146, 255);
+    background-color: white;
+}
+
+.HomeLogo {
+    font-size: 1.4em;
+    margin-bottom:4px;
+    margin-right:5px;
+    border-right: 1px solid white;
+    padding-right: 10px;
+}
+
+.btn-theme {
+    background-color: rgb(50, 146, 255);
+    color: white;
+    border: 1px solid rgb(50, 146, 255);
+}.btn-theme:hover {
+    background-color: rgb(8, 87, 177);
+    color: white;
+}
+.btn-outline-theme {
+    color: rgb(50, 146, 255);
+    border: 1px solid rgb(50, 146, 255);
+}.btn-outline-theme:hover {
+    background-color: rgb(8, 87, 177);
+    color: white;
+}
+
+.info-badge{
+    display: inline-block;
+    position:absolute;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 20%;
+    height: 35%;
+    right: 0;
+    top: 5px;
+}
+
+/* for footer */
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

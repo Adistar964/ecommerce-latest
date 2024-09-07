@@ -1,0 +1,9 @@
+
+
+The delivery-slot becoming unavailable before 40 mins thing!
+
+if the current time exceeds the slot-start-time (example: I cant book a slot for 8am if its already 9am)
+
+When adding from wishlist to cart, make sure the quantity doesnt exceed
+
+Search Filters needs to be operational

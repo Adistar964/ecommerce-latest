@@ -1,0 +1,10 @@
+
+
+.status-pending {
+    border: 1px solid rgb(186, 178, 20);
+    color:rgb(186, 178, 20) !important;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom:3px;
+}

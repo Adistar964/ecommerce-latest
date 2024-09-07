@@ -1,0 +1,23 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="" alt="" id="any">
+    <button>CLick</button>
+    <script>
+        fetch("https://source.unsplash.com/220x220/?Pastry")
+  .then(res=>{return res.blob()})
+  .then(blob=>{
+    var img = URL.createObjectURL(blob);
+    // Do whatever with the img
+    document.getElementById('any').setAttribute('src', img);
+  })
+    </script>
+</body>
+</html>

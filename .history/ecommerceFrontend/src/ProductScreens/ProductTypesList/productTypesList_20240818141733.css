@@ -1,0 +1,11 @@
+
+
+.productTypeCard {
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.productTypeCard:hover {
+    box-shadow: 1em blue;
+}

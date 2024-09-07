@@ -1,0 +1,19 @@
+
+
+.status {
+    font-weight: 600 !important;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom:3px;
+}
+
+.status-pending {
+    border: 1px solid gold;
+    color:gold !important;
+}
+
+.status-delivered {
+    border: 1px solid LawnGreen;
+    color:LawnGreen !important;
+}

@@ -1,0 +1,14 @@
+
+.btn-prodview {
+    display: block;
+    margin: auto;
+    width:50%;
+    transition: background-color 0.3s;
+    border-radius: 20px;
+}
+
+.sideBarText {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    padding-top: 5px;
+}

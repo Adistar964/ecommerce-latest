@@ -1,0 +1,10 @@
+
+
+.status-pending {
+    color:white !important;
+    border-color: rgba(252, 243, 67, 0.598) !important;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom:3px;
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        fetch("https://api.unsplash.com/search/photos?client_id=O28u-ux2dk3ydZUaf-HwX3HKpFb7nCTYeeoJ74uNjq4",{query:"cookies"})
+        .then(res=>res.json).then(res=>console.log(res))
+        .catch(e=>console.log(e))
+    </script>
+</body>
+</html>

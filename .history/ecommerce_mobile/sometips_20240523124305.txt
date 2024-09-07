@@ -1,0 +1,9 @@
+
+
+*****to run the flutter app => f5 key in the dart file that u r programming at
+
+Also firebase is added to project. (followed setup-steps from yt)
+=> refer to firebase-flutter playlist saved in yt for more info on using firebase with flutter
+but one more thing:
+while creatinng the app for android in ur firebase project,
+also include SHA-1 field altho it is optional => u can get it by navigating to the android folder and running "./gradlew signingReport"

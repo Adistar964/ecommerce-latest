@@ -1,0 +1,7 @@
+
+.btn-prodview {
+    display: block;
+    width:50%;
+    transition: all 0.5s;
+    border-radius: 20px;
+}

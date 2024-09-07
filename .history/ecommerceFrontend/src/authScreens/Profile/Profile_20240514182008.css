@@ -1,0 +1,30 @@
+
+
+.subheading-profile{
+    font-family:fantasy;
+    text-align:center;
+}
+
+.btn-outline-CornflowerBlue{
+    color: CornflowerBlue;
+    border-color: CornflowerBlue;
+}.btn-outline-CornflowerBlue:hover{
+    background-color: CornflowerBlue;
+    color: white;
+}
+
+.btn-outline-DarkOrchid{
+    color: DarkOrchid;
+    border-color: DarkOrchid;
+}.btn-outline-DarkOrchid:hover{
+    background-color: DarkOrchid;
+    color: white;
+}
+
+.btn-outline-Fuchsia{
+    color: Fuchsia;
+    border-color: Fuchsia;
+}.btn-outline-Fuchsia:hover{
+    background-color: Fuchsia;
+    color: white;
+}

@@ -1,0 +1,14 @@
+
+
+.google-btn {
+    display: flex;
+    border: 1px solid rgb(8, 87, 177);
+    align-items: center;
+    padding: 5px;
+    background-color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin: auto;
+} .google-btn:hover {
+    border-color: rgb(6, 70, 143);
+}

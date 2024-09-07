@@ -1,0 +1,14 @@
+/* for custom carousel next-prev buttons */
+/* .carousel-control-next-icon, .carousel-control-prev-icon {
+    border-radius: 100%;
+    background-color: darkslategray;
+    color: white;
+}
+.carousel-indicators>button{
+    background-color: black!important;
+} */
+
+/* customising scroll-to-top-arrow */
+.scroll-to-top-arrow { 
+    border-radius: 100%;
+}

@@ -1,0 +1,12 @@
+
+
+.text-srch {
+    font-style: italic;
+    font-family: monospace;
+    margin-bottom: 20px;
+}
+
+.card-item {
+    width: 200px;
+    height: 200px;
+}

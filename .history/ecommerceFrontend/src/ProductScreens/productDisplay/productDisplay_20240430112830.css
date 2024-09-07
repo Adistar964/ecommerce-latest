@@ -1,0 +1,20 @@
+
+.btn-prodview {
+    display: block;
+    margin: auto;
+    width:50%;
+    transition: background-color 0.3s;
+    border-radius: 20px;
+}
+
+.btn-outline-red {
+    border-color: rgb(114, 110, 102);
+    color: black;
+}.btn-outline-red:hover {
+    border-color: rgb(201, 15, 15) !important;
+    color:red;
+}
+.sideBarText {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}

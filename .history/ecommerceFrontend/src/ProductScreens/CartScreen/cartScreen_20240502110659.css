@@ -1,0 +1,24 @@
+.cart-img {
+    display: inline-block;
+    width:100px;
+    height:100px;
+    transition: all 0.5s;
+}
+.cart-img:hover {
+    transform: scale(1.2);
+}
+.cart-item-hover {
+    cursor:"pointer";
+}.cart-item-hover:hover {
+    background-color: aliceblue;
+}
+.btn-proceed-to-payment{
+    background-color: rgb(47, 255, 85);
+    color: white;
+    border-radius: 20px;
+    transition: all 0.3s;
+} .btn-proceed-to-payment:hover{
+    color: rgb(47, 255, 85);
+    background-color: white;
+    transform: scale(1.08);
+}

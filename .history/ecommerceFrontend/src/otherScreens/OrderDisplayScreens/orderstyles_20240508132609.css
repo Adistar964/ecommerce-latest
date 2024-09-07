@@ -1,0 +1,11 @@
+
+
+.status-pending {
+    border: 1px solid gold;
+    color:gold !important;
+    font-weight: 400;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom:3px;
+}

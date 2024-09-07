@@ -1,0 +1,32 @@
+
+
+.text-srch {
+    font-style: italic;
+    font-family: monospace;
+    margin-bottom: 20px;
+}
+
+.cards-container { 
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.product-card {
+    width: 180px;
+    height: auto;
+    border: 1px solid grey;
+    padding: 5px;
+    text-align: center;
+}
+.product-card>img {
+    display: block;
+    width: 160px;
+    height: 160px;
+    margin: auto;
+}
+.product-card>p {
+    margin-top: 10px;
+    font-family: Helvetica;
+}

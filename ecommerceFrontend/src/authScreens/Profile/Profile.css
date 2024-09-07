@@ -1,0 +1,54 @@
+
+
+.subheading-profile{
+    font-family:fantasy;
+    text-align:center;
+}
+
+.btn-outline-CornflowerBlue{
+    color: CornflowerBlue;
+    border-color: CornflowerBlue;
+}.btn-outline-CornflowerBlue:hover{
+    background-color: CornflowerBlue;
+    color: white;
+}
+
+.btn-outline-DarkOrchid{
+    color: DarkOrchid;
+    border-color: DarkOrchid;
+}.btn-outline-DarkOrchid:hover{
+    background-color: DarkOrchid;
+    color: white;
+}
+
+.btn-outline-Fuchsia{
+    color: Fuchsia;
+    border-color: Fuchsia;
+}.btn-outline-Fuchsia:hover{
+    background-color: Fuchsia;
+    color: white;
+}
+
+.btn-outline-LightSeaGreen{
+    color: LightSeaGreen;
+    border-color: LightSeaGreen;
+}.btn-outline-LightSeaGreen:hover{
+    background-color: LightSeaGreen;
+    color: white;
+}
+
+.btn-outline-Salmon{
+    color: Salmon;
+    border-color: Salmon;
+}.btn-outline-Salmon:hover{
+    background-color: Salmon;
+    color: white;
+}
+
+.btn-outline-MediumSlateBlue{
+    color: MediumSlateBlue;
+    border-color: MediumSlateBlue;
+}.btn-outline-MediumSlateBlue:hover{
+    background-color: MediumSlateBlue;
+    color: white;
+}

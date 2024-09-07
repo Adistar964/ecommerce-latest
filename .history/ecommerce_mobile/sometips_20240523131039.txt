@@ -1,0 +1,23 @@
+
+
+*****to run the flutter app => f5 key in the dart file that u r programming at
+
+Also firebase is added to project. (followed setup-steps from yt)
+=> refer to firebase-flutter playlist saved in yt for more info on using firebase with flutter
+but one more thing:
+while creatinng the app for android in ur firebase project,
+also include SHA-1 field altho it is optional => u can get it by navigating to the android folder and running "./gradlew signingReport"
+
+=> then install firebase_auth package into this flutter project to work with authentication
+
+
+Project structure/ folder structure will be similar to ecommerceFrontend => example: productScreens,authScreens folder
+
+App Logic:
+First we will ask the user to login, and then the shopping app opens
+
+So, basically
+at our "home" route as defined in home.dart,
+It will first see If we r logged in,
+ => if we are, then it shows the main shoppring screen
+ => if not, then it will take us to the login screen

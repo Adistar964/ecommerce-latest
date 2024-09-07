@@ -1,0 +1,11 @@
+.cart-img {
+    display: inline-block;
+    width:70px;
+    height:70px;
+}
+
+.cart-item {
+    cursor:"pointer";
+}.cart-item:hover {
+    background-color: aliceblue;
+}
