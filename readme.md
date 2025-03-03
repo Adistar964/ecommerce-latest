@@ -17,7 +17,7 @@ EcommerceLatest is a full-stack e-commerce application with separate backend and
     - [Setup](#setup-mobile-frontend)
     - [Usage](#usage-mobile-frontend)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Backend
 
